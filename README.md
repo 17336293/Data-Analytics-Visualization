@@ -4,10 +4,10 @@ This was a project I undertook as part of the UCD course of the same name. I cho
 
 Contents:
 
-<ins> **Data Analytics and CRISP_DM Methodology Final Project_laptop_prices.docx ** </ins> : Project write-up.
+<ins>Data Analytics and CRISP_DM Methodology Final Project_laptop_prices.docx</ins> : Project write-up.
 
-**README.md**: YOU ARE HERE.
+<ins>README.md</ins>: YOU ARE HERE.
 
-**laptop_prices.csv**: The origional dataset used in the course of the project (links in the write-up).
+<ins>laptop_prices.csv</ins>: The origional dataset used in the course of the project (links in the write-up).
 
-**main.ipynb**:      All the code used to generate the figures and analysis in the write-up.
+<ins>main.ipynb</ins>:      All the code used to generate the figures and analysis in the write-up.

@@ -4,7 +4,7 @@ This was a project I undertook as part of the UCD course of the same name. I cho
 
 Contents:
 
-**Data Analytics and CRISP_DM Methodology Final Project_laptop_prices.docx**: Project write-up.
+**_Data Analytics and CRISP_DM Methodology Final Project_laptop_prices.docx_**: Project write-up.
 
 **README.md**: YOU ARE HERE.
 

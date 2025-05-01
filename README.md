@@ -1,3 +1,4 @@
-# Data-Analytics-Visualization
+# Data Analytics & Visualization
 
-This was a project I undertook as part of the UCD course of the same name. I choose to analyse PC prices within the global market, disecting what faeatures commanded the greatest influence over product price, identifing popular complementory products, and laying the groundwork for a ML model to help evaluate of PCs on the market. 
+This was a project I undertook as part of the UCD course of the same name. I chose to analyze PC prices within the global market, dissecting which features had the greatest influence on product pricing, identifying popular complementary products, and laying the groundwork for a machine learning model to help evaluate PCs on the market.
+

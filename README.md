@@ -4,7 +4,7 @@ This was a project I undertook as part of the UCD course of the same name. I cho
 
 # Contents:
 
-### [<ins>Project_laptop_prices.pdf.docx</ins>](https://github.com/17336293/Laptop-Prices-Analysis/blob/main/Project_laptop_prices.pdf) : Project write-up.
+### [<ins>Project_laptop_prices.pdf.docx</ins>](https://github.com/17336293/Laptop-Prices-Analysis/blob/main/Project_laptop_prices.pdf): Project write-up.
 
 ### [<ins>README.md</ins>](https://github.com/17336293/Laptop-Prices-Analysis/edit/main/README.md): YOU ARE HERE.
 

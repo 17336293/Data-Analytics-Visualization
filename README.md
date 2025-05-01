@@ -10,4 +10,4 @@ This was a project I undertook as part of the UCD course of the same name. I cho
 
 ### [<ins>laptop_prices.csv</ins>](https://github.com/17336293/Laptop-Prices-Analysis/blob/main/laptop_prices.csv): The origional dataset used in the course of the project (links in the write-up).
 
-### <ins>main.ipynb</ins>:      All the code used to generate the figures and analysis in the write-up.
+### [<ins>main.ipynb</ins>](https://github.com/17336293/Laptop-Prices-Analysis/blob/main/main.ipynb):      All the code used to generate the figures and analysis in the write-up.
